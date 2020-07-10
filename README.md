@@ -14,8 +14,10 @@ I've clean and preprocess the data accordingly and use it to generate a decision
 ## Question 4: Frequent Item Sets (Part 2)
 Uses apriori algorithm, F-P growth algorithm and mine the association rules.
 
+## Question 5:  Density Based Clustering (Part 3)
+
 ##Youtube links:
 Part 1: https://youtu.be/TwVQgX3wYN4
 Part 2: https://youtu.be/ECuVHlDFrZ4
-
+Part 3: https://youtu.be/0zZYAgA_lWc
 
